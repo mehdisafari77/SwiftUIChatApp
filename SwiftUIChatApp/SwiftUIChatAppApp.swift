@@ -4,14 +4,21 @@
 //
 //  Created by Mehdi MMS on 30/07/2021.
 //
+//
 
-import SwiftUI
-
-@main
-struct SwiftUIChatAppApp: App {
-    var body: some Scene {
-        WindowGroup {
-            ContentView()
-        }
-    }
-}
+//import SwiftUI
+//import Firebase
+//
+//@main
+//struct SwiftUIChatAppApp: App {
+//
+//    init() {
+//        FirebaseApp.configure()
+//    }
+//
+//    var body: some Scene {
+//        WindowGroup {
+//            ContentView().environmentObject(AuthViewModel.shared)
+//        }
+//    }
+//}
